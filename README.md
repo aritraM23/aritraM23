@@ -1,5 +1,5 @@
 ### Thanks for stopping by!
-### Aritra Marik/ @devilishAM 👋 
+### Aritra Marik/ @aritraM23 👋 
 
   -🔭 I’m currently a student at Jadavpur University, Kolkata and studying Information Technology. 
 
