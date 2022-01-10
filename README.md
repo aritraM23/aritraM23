@@ -3,7 +3,7 @@
 
   -🔭 I’m currently a student at Jadavpur University, Kolkata and studying Information Technology. 
 
-  -📑 I'm currently learning various Data Analytics techniques, ML and DL frameworks and algorithms.
+  -📑 I'm currently learning Computer Vision and Natural Language Processing frameworks.
 
   <!--
   **devilishAM/devilishAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
