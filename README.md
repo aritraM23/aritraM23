@@ -23,7 +23,6 @@
   -📫 How to reach me: 
 
    - LinkedIn : https://www.linkedin.com/in/aritra-marik/
-   - Twitter :  https://twitter.com/23_aritra
 
   -📊 My Github Info:
 
