@@ -1,9 +1,11 @@
 ### Thanks for stopping by!
 ### Aritra Marik/ @aritraM23 👋 
 
-  -🔭 I’m currently a student at Jadavpur University, Kolkata and studying Information Technology. 
+  -🔭 I’m currently a student at TU Darmstadt, Darmstadt, Germany and pursuing my Master's in Artificial Intelligence and Machine Learning. 
 
-  -📑 I'm currently learning Computer Vision and Natural Language Processing frameworks.
+  -📑 I have worked in the domain of Computer Vision and Signal Processing during my undergrad at Jadavpur University, Kolkata.
+
+  - 🌱 Currently learning and looking for opportunities in Multimodal AI 
 
   <!--
   **devilishAM/devilishAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
