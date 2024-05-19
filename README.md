@@ -3,9 +3,9 @@
 
   -🔭 I’m currently a student at TU Darmstadt, Darmstadt, Germany and pursuing my Master's in Artificial Intelligence and Machine Learning. 
 
-  -📑 I have worked in the domain of Computer Vision and Signal Processing during my undergrad at Jadavpur University, Kolkata.
+  - 🌱 Currently learning and looking for opportunities in Multimodal AI.
 
-  - 🌱 Currently learning and looking for opportunities in Multimodal AI 
+  -📑 I have worked in the domain of Computer Vision and Signal Processing during my undergrad at Jadavpur University, Kolkata. 
 
   <!--
   **devilishAM/devilishAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
