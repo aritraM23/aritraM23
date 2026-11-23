@@ -24,7 +24,6 @@
   - ⚡ Fun fact: ...
   -->
 
-  -📫 How to reach me: 
-
-   - LinkedIn : [https://www.linkedin.com/in/aritra-marik/](https://www.linkedin.com/in/aritra-marik/)
-   - E-mail : [aritra.marik@unimore.it](aritra.marik@unimore.it)
+  - 📫 How to reach me:
+     - LinkedIn : [https://www.linkedin.com/in/aritra-marik/](https://www.linkedin.com/in/aritra-marik/)
+     - E-mail : [aritra.marik@unimore.it](aritra.marik@unimore.it)
